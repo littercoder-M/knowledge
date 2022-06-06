@@ -6,6 +6,7 @@
 - [JS](#JS)
 - [主流框架](#主流框架)
 - [Node](#Node)
+- [微信相关](#微信相关)
 
 ### HTML
     html
@@ -46,5 +47,14 @@
 - [autocannon 压测](https://github.com/mcollina/autocannon) 
 - [Web「性能测试」知多少](http://jartto.wang/2020/04/05/about-wrk/) 
 
+
+### 微信相关
+
+- [微信官方文档](https://developers.weixin.qq.com/doc/) 
+- [微信支付文档](https://pay.weixin.qq.com/wiki/doc/api/jsapi.php?chapter=7_1)
+- [小程序开发指南](https://developers.weixin.qq.com/ebook?action=get_post_info&docid=0008aeea9a8978ab0086a685851c0a)
+- [Vant Weapp 轻量、可靠的小程序 UI 组件库](https://youzan.github.io/vant-weapp/#/home)
+- [mina-webpack](https://github.com/tinajs/mina-webpack)
+- [关于微信小程序、H5、公众号、APP跳转问题](https://zhuanlan.zhihu.com/p/146757157) 
 
 
